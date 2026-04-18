@@ -81,7 +81,7 @@ Performed data validation and preprocessing in Excel to ensure data quality and 
 - Arrest data reflects policing patterns, not actual crime rates
 
 ### Offense Analysis
-![Offense Distribution](visuals/offense_distribution.png)
+![Offense Distribution](visuals/top10_offenses.png)
 
 - Most common offenses:
   - Assault-related (~26.9K)
