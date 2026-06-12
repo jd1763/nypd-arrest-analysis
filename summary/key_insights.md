@@ -4,7 +4,6 @@
 Analysis of 155,000+ NYPD arrest records reveals clear patterns across geography, demographics, offense types, and time.
 
 ## Top Insights
-
 - Arrest activity is concentrated in Brooklyn, Manhattan, and the Bronx
 - Arrests cluster in specific hotspots rather than being evenly distributed
 - Individuals aged 25–44 account for the majority of arrests
